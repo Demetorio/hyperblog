@@ -22,3 +22,5 @@ TRANSFORMANDO TODAS LAS LETRAS A UPPERCASE
 [========]
 
 Eso es todo
+
+*Todos los derechos reservados
